@@ -1,0 +1,12 @@
+const Express= require('express');
+const { get_teacher_login, post_teacher_login, get_teacher_home, get_teacher_addResult, post_teacher_addResult, get_teacher_editResult, post_teacher_editResult, get_teacher_deleteResult } = require('../controller/TeacherController');
+const route= Express.Router();
+route.get("/login",get_teacher_login);
+route.post("/home",post_teacher_login);
+route.get("/home",get_teacher_home);
+route.get("/addResult",get_teacher_addResult);
+route.post("/addResult",post_teacher_addResult);
+route.get("/editResult/:id",get_teacher_editResult);
+route.post("/editResult",post_teacher_editResult);
+route.get("/deleteResult/:id",get_teacher_deleteResult);
+module.exports= route;

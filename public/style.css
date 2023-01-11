@@ -1,0 +1,16 @@
+body
+{
+    background-color: #94f58c;
+}
+.btn
+{
+    margin: 5px;
+}
+.card-title{
+    margin-left: 16%;
+    margin-bottom: 40px;
+}
+.card{
+    padding: 20px;
+    background-color: #daeb86;
+} 

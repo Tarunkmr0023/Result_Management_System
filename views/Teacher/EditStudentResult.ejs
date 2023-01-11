@@ -1,0 +1,29 @@
+<div class="col-sm-4 mx-auto ">
+    <a href="/teacher/home" class="btn btn-danger" style="margin-left:45%;">Back</a>
+    <div class="card rounded-2 shadow-lg">
+        <div class="card-body">
+            <h2 class="card-title d-flex justify-content-center" style="margin-left:0px;">Edit Student Result</h2>
+            <form action="/teacher/editResult" method="post">
+                <div class="mb-1">
+                    <label for="StudentName" class="form-label">Name</label>
+                    <input type="text" class="form-control" minlength="3" name="StudentName" id="StudentName" placeholder="Enter Student Name" value="<%= name %>" required>
+                </div>
+                <div class="mb-1">
+                    <label for="StudentRollNo" class="form-label">Roll No.</label>
+                    <input type="number" class="form-control"  name="StudentRollNo" id="StudentRollNo" placeholder="Enter Student Roll no." value="<%= rollno %>" readonly required>
+                </div>
+                <div class="mb-1">
+                    <label for="StudentDOB" class="form-label">Date of Birth</label>
+                    <input type="date" class="form-control"  name="StudentDOB" id="StudentDOB" placeholder="Enter Student  Date of Birth" value="<%= dob %>" required>
+                </div>
+                <div class="mb-1">
+                    <label for="StudentScore" class="form-label">Score</label>
+                    <input type="number" class="form-control"  name="StudentScore" id="StudentScore" placeholder="Enter Student Score" value="<%= score %>" required>
+                </div>
+                <button type="submit" class="btn btn-success" style="margin-left: 25%;">Submit</button>
+                <button type="reset"  class="btn btn-danger">Reset</button>
+            </form>
+        </div>
+    </div>
+
+</div>
