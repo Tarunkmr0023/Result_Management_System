@@ -33,3 +33,27 @@ A Result Management System developed using HTML, CSS, JavaScript , Node and usin
 2. Open URL "https://localhost:port_number" on a browser. e.g. "https://localhost:3000"
 
 
+## Screenshots
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/Tarunkmr0023/Result_Management_System/blob/main/Screenshots/Screenshot%20(122).png?raw=true)
+
+![App Screenshot](https://github.com/Tarunkmr0023/Result_Management_System/blob/main/Screenshots/Screenshot%20(123).png?raw=true)
+
+![App Screenshot](https://github.com/Tarunkmr0023/Result_Management_System/blob/main/Screenshots/Screenshot%20(124).png?raw=true)
+
+![App Screenshot](https://github.com/Tarunkmr0023/Result_Management_System/blob/main/Screenshots/Screenshot%20(125).png?raw=true)
+
+![App Screenshot](https://github.com/Tarunkmr0023/Result_Management_System/blob/main/Screenshots/Screenshot%20(126).png?raw=true)
+
+![App Screenshot](https://github.com/Tarunkmr0023/Result_Management_System/blob/main/Screenshots/Screenshot%20(127).png?raw=true)
+
+![App Screenshot](https://github.com/Tarunkmr0023/Result_Management_System/blob/main/Screenshots/Screenshot%20(128).png?raw=true)
+
+![App Screenshot](https://github.com/Tarunkmr0023/Result_Management_System/blob/main/Screenshots/Screenshot%20(129).png?raw=true)
+
+![App Screenshot](https://github.com/Tarunkmr0023/Result_Management_System/blob/main/Screenshots/Screenshot%20(130).png?raw=true)
+
+
