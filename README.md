@@ -32,10 +32,6 @@ A Result Management System developed using HTML, CSS, JavaScript , Node and usin
 1. Edit port you want to use as localhost to run the application in the app.js file.
 2. Open URL "https://localhost:port_number" on a browser. e.g. "https://localhost:3000"
 
-
-## Screenshots
-
-
 ## Screenshots
 
 ![App Screenshot](https://github.com/Tarunkmr0023/Result_Management_System/blob/main/Screenshots/Screenshot%20(122).png?raw=true)
